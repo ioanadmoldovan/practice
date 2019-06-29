@@ -7,4 +7,4 @@ console.log( myDate );
 console.log( myPastDate );
 console.log( myFutureDate );
 
-//Date methods
+
